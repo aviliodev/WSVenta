@@ -1,0 +1,2 @@
+Crear modelos a partir de base sql
+=> Scaffold-DBContext "Server=DESKTOP-RC7JQBO\SQLEXPRESS;Database=VentaReal;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
